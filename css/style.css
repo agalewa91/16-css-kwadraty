@@ -1,0 +1,16 @@
+h1 {
+  color: #ffffff;
+  margin-left: 10px;
+}
+.kwadraty {
+  background-color: #fea500;
+  width: 150px;
+  height: 150px;
+}
+div {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+body {
+  background-color: #808080;
+}
